@@ -1,0 +1,19 @@
+.hero .node__content {
+  position: relative;
+}
+
+.hero .field--type-image {
+  float: none;
+  margin: 0;
+}
+
+.hero .field--name-field-hero-text {
+  background: #0a6eb4;
+  opacity: .8;
+  color: white;
+  font-weight: bold;
+  padding: 2em 4em;
+  position: absolute;
+  bottom: 40px;
+  right: 0;
+}

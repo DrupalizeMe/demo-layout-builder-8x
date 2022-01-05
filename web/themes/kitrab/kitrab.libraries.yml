@@ -1,0 +1,9 @@
+node.cta:
+  css:
+    component:
+      templates/components/cta/cta.css: {}
+
+node.hero:
+  css:
+    component:
+      templates/components/hero/hero.css: {}
